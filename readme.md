@@ -16,7 +16,7 @@ Users will be able to:
 
 ## Demo Video
 
-<video width="400" src="Django Mail Server Demo Video.mp4" controls></video>
+https://user-images.githubusercontent.com/59118459/145211828-219bf0bc-5aaa-4223-9924-6c76f604af3c.mp4
 
 <br />
 
