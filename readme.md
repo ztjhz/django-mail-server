@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-043728?style=flat-square&logo=django)
 
-Developed a backend mail server using django
+Developed a backend `📧 mail` server using django
 
 Users will be able to:
 
